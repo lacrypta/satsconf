@@ -37,4 +37,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 ## Contributions
 
-Created with love by La Crypta
+Created with eggs by La Crypta
