@@ -1,5 +1,13 @@
 ## SatsConf Lightning Domains workshop
 
+### Includes
+
+- Plain Nextjs boilerplate
+- LUD-16 example
+- NIP-05 example
+
+### Run it
+
 First, run the development server:
 
 ```bash
