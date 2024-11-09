@@ -1,5 +1,5 @@
 import Image from "next/image";
-import logo from "./img/logo.svg";
+import satsconf from "./img/satsconf.svg";
 import lacrypta from "./img/lacrypta.svg";
 
 export default function Home() {
@@ -8,7 +8,7 @@ export default function Home() {
       <main className='flex flex-col gap-8 row-start-2 items-center sm:items-start'>
         <Image
           className='dark:invert'
-          src={logo}
+          src={satsconf}
           alt='SatsConf logo'
           width={400}
           height={60}
